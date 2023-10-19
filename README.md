@@ -14,3 +14,5 @@ The application can executed at any platform like windows, linux and mac.
 some of the modules are not inbuilt so you have to install 
 rich module : pip install rich
 mysql-connector : pip install mysql-connector and pip install mysql-connector-python
+
+make sure to source the .sql file in mysql before executing the application.
